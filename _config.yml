@@ -271,8 +271,8 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Chopra]
+  first_name: [Palak]
 
   style: apa
   locale: en
