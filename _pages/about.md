@@ -27,8 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, I am currently a research engineer at IIT Bombay working on  autonomous security solutions, under the guidance of [Prof. G. Sivakumar](https://www.cse.iitb.ac.in/~siva/). I've previously worked on open-source SIEM technologies and LLM application security solutions.
+Hello, I am a PhD scholar at IIT Bombay's CSE department, working under guidance of [Prof. Devashish Gosain](https://www.devashishgosain.com/).
+My work focusses on analysis and measurements across web privacy and anonymity networks like Tor. 
 
-I let Dan Brown's Digital Fortress  (his only book I ever liked) affect me too much as a kid and became interested in cybersecurity and privacy. I believe digital institutes need to be held more accountable for how they treat our data.
+I have previously worked on autonomous security solutions, open-source SIEM tools and LLM application security, under the guidance of [Prof. G. Sivakumar](https://www.cse.iitb.ac.in/~siva/).
+
+I let Dan Brown's Digital Fortress influence me a bit too much as a kid (retrospectively it's an alright book at best) and became interested in cybersecurity and privacy. I believe digital institutes need to be held more accountable for how they treat our data.
 
 I am interested in studying the current state of privacy, specifically in India, and what kind of technologies help improve its posture.

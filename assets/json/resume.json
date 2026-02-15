@@ -3,9 +3,9 @@
     "name": "Palak Chopra",
     "label": "Security Engineer",
     "image": "",
-    "email": "palakchopra@cse.iitb.ac.in",
+    "email": "palakchopra@iitb.ac.in",
     "url": "https://ipalakchopra.github.io/",
-    "summary": "Security R&D | Infrastructure Security | LLM Application Security | Security Operations Automation",
+    "summary": "Digital Privacy | LLM Application Security | Security Operations Automation",
     "location": {
       "city": "Mumbai",
       "countryCode": "India"
@@ -20,10 +20,18 @@
   },
   "work": [
     {
+      "name": "CSE, IIT Bombay",
+      "position": "PhD Scholar",
+      "startDate": "2026-01-01",
+      "endDate": "Present",
+      "summary": "Analysis and measurements across web privacy and anonymity networks like Tor.",
+      "highlights": ["Web Privacy, Anonymity Networks"]
+    },
+    {
       "name": "IIT Bombay Trust Lab",
       "position": "Project Software Engineer",
       "startDate": "2025-08-01",
-      "endDate": "Present",
+      "endDate": "2025-12-31",
       "summary": "Automating security operations like IoC lookup, threat hunting, data analytics",
       "highlights": ["Security Operations, LLM, Agentic AI"]
     },
@@ -38,9 +46,17 @@
   ],
   "education": [
     {
+      "institution": "IIT Bombay",
+      "location": "Mumbai, India",
+      "area": "Computer Science and Engineering",
+      "studyType": "PhD",
+      "startDate": "2020",
+      "endDate": "Present"
+    },
+    {
       "institution": "K J Somaiya College of Engineering",
       "location": "Mumbai, India",
-      "area": "Computer Engineer with Honours in Cybersecurity and Digital Forensics",
+      "area": "Computer Engineering with Honours in Cybersecurity and Digital Forensics",
       "studyType": "B. Tech",
       "startDate": "2020",
       "endDate": "2024",
